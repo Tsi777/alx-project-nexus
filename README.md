@@ -55,14 +55,6 @@ All collaboration and communication for this project will happen on the dedicate
 2.  **Identify Your Team:** Find and connect with Frontend learners who are working on the same project idea.
 3.  **Establish Workflows:** Set up initial communication channels and agree on collaboration tools (e.g., GitHub Projects, Discord threads) early on.
 
-## 📁 Repository Structure
-alx-project-nexus/
-├── README.md # Project overview and documentation
-├── concepts/ # Detailed explanations of backend concepts
-├── examples/ # Code examples and implementations
-├── best-practices/ # Industry standards and personal insights
-└── challenges/ # Real-world problems and solutions
-
 ## 🏁 Getting Started
 To get the most out of this documentation:
 1.  **Explore the Folders:** Navigate through the directories to find detailed explanations on specific topics.
