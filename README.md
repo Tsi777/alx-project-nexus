@@ -58,11 +58,16 @@ All collaboration and communication for this project will happen on the dedicate
 ## 📁 Repository Structure
 alx-project-nexus/
 │
-├── README.md # Project overview (you are here)
-├── concepts/ # Deep dives into backend concepts (DB, Async, Caching)
-├── examples/ # Practical code snippets and mini-projects
-├── best-practices/ # Guides on coding standards and industry practices
-└── challenges/ # Detailed write-ups of problems faced and solutions
+├── README.md
+# Project overview (you are here)
+├── concepts/ 
+# Deep dives into backend concepts (DB, Async, Caching)
+├── examples/ 
+# Practical code snippets and mini-projects
+├── best-practices/ #
+Guides on coding standards and industry practices
+└── challenges/ 
+# Detailed write-ups of problems faced and solutions
 
 
 ## 🏁 Getting Started
